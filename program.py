@@ -2,6 +2,7 @@ def main():
     print('First GIT program')
     print('And I change it every day')
     print('Again')
+    print('Maksim - *******')
 
 
 if __name__ == '__main__':
